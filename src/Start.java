@@ -24,7 +24,7 @@ public class Start {
  
 		if ((hora >= 0 && hora <= 23) && (minutos >= 0 && minutos <= 59) && (segundos >= 0 && segundos <= 59)) {
  
-			System.out.println ("La hora es correcta:" + hora + ":" + minutos + ":" + segundos );
+			System.out.println ("La hora es correcta");
  
 		} else 
 			
